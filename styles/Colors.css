@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+}
+
+.marker {
+  background-color: red;
+  height: 25px;
+  width: 200px;
+  margin: auto;
+  margin: 10px auto;
+}
+
+.one {
+  background-color: rgb(108, 168, 168);
+  background-color: hsl(240, 1saturation, lightness)
+}
+
